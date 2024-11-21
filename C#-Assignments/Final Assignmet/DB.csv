@@ -1,0 +1,11 @@
+Car;Volkswagen;Golf VI;5400;2010
+Car;Mercedes-Benz;C200;3000;2002
+Car;Toyota;Yaris;5700;2013
+Customer;Elton John;Rachelsmolen 1;0401234567;5612;Eindhoven
+Customer;Eve McFarm;Farlane 254b;0624361890;5612;Rotterdam
+Customer;Donald Duck;Rachelsmolen 2;0401234567;5612;Brudge
+Customer;Renis;Lombokpad;355694776841;5641BZ;Eindhoven
+Sale;Elton John;Rachelsmolen 1;0401234567;5612;Eindhoven;Volkswagen;Golf V;3400;2006;12 February 2022
+Sale;Eve McFarm;Farlane 254b;0624361890;5612;Rotterdam;Mercedes-Benz;E220;5000;2008;29 April 2022
+Sale;Renis;Lombokpad;355694776841;5641BZ;Eindhoven;Mercedes-Benz;C200;3000;2002;13 June 2022
+Sale;Renis;Lombokpad;355694776841;5641BZ;Eindhoven;Mercedes-Benz;E220;5000;2008;13 June 2022
