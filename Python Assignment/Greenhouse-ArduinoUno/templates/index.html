@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ title }}</title>
+        <link rel="stylesheet" href="static/CSS/main.css">
+        <meta http-equiv="refresh" content="5" >
+    </head>
+    <body>
+        <h1>Hello {{ username }}!</h1>
+        <h2>Date and time are {{date}} (date/month/year)</h2>
+
+            <table class = "table">
+                <tr>
+                    <th>Temperature</th>
+                    <th>Humidity</th>
+                    <th>Light</th>
+                </tr>
+
+                <tr>
+                    <td>{{temperature}} °C</td>
+                    <td>{{humidity}} %</td>
+                    <td>{{light}} </td>
+                </tr>    
+            </table>   
+
+
+            <img src = "https://www.treehugger.com/thmb/nGAuHwluD7w7F_v96FWs5K3wDBQ=/2121x1414/filters:fill(auto,1)/GettyImages-171589415-b339b6ad9fda46438298578316458131.jpg">
+
+    </body>
+</html>
